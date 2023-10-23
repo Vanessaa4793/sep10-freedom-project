@@ -1,7 +1,8 @@
-# Entry 1
-##### X/X/XX
+# Technology
+##### 10/23/2023
 
-Text
+### Content
+I chose the topic of technology because anything that involves working with the computer interests me.
 
 [Next](entry02.md)
 
