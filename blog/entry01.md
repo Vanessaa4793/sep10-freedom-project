@@ -15,7 +15,7 @@ As a beginneer, I am currently in the first step of my learning process, which i
 Some skills that I have learned is how to google, using my resources that are around me and communication.
 
 ### How to google
-Since I am interested in Technology more in the computer engineering range, I searched up thst in google. I skimmed through the results and picked out the articles/details that were the most interesting. I came across this articles called "What is Computer Engineering Technology? https://www.softwareengineerinsider.com/careers/computer-engineering-technology.html 
+Since I am interested in Technology more in the computer engineering range, I searched up thst in google. I skimmed through the results and picked out the articles/details that were the most interesting. I came across this articles called "What is Computer Engineering Technology?" https://www.softwareengineerinsider.com/careers/computer-engineering-technology.html, this article deepen my knowledge of computer engineering and its salary. Doing further research, I looked up computer engineering coding and found the article called "Computer Science vs. Computer Engineering" https://www.coursera.org/articles/computer-science-vs-computer-engineering and this website even allows you to search things up.
 
 [Next](entry02.md)
 
