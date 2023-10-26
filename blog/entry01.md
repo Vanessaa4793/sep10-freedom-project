@@ -21,7 +21,7 @@ Since I am interested in Technology more in the computer engineering range, I se
 This was a very hard skill to develop but I have gotten better at it even on off days. I have to juggle between sports and schoolwork, sometimes I get home very late and still manage to complete my work. If I am free during school, I would complete some of my assignments to make it easier on me when I get home. As I ger older though, I know my work is going to be alot more so I have got to manage myself better. Often times I would use a timer and set a set for myself for each homework assignment so I can keep myself on track and it worked out for me so far.
 
 ### Summary
-To sum this all up, I am excited to see what the future holds for me and coding, and to see if I would persue coding when I gorw up.
+To sum this all up, I am excited to see what the future holds for me and coding, and to see if I would persue coding when I grow up.
 
 [Next](entry02.md)
 
