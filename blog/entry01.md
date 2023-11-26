@@ -1,8 +1,8 @@
-# Technology
+# Basketball
 ##### 10/23/2023
 
 ### Content
-I chose the topic of technology because anything that involves working with the computer interests me. The thought of making new websites and letting people see it and giving me feedback intrigues me. There is a gaming company called Roblox, and I used to play it a lot when I was younger, I was always used to think how did they get so many games into one app as I grew older I knew it had something to do with code and it sparked my interest into becoming a computer enigneer. Even though I don't know everything there is to coding I am still willing to try even when it gets hard because it is my passion and I want to persue it as a job. Some articles that I use to do my research are https://www.softwareengineerinsider.com/careers/computer-engineering-technology.html and https://www.coursera.org/articles/computer-science-vs-computer-engineering. These articles helped me get a better understanding of why I want to get into the field of engineering and how my passion for it started in the first place.
+I chose the tooic of basketball because even though its a sport there are many technology advancements behind it.
 
 ### Technology process
 As a beginneer, I am currently in the first step of my learning process, which is to get better at code and learn more diffcult codes. The way I am going to achieve this step is to 
