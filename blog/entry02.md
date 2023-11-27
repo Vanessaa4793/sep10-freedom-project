@@ -1,7 +1,17 @@
 # Entry 2
-##### X/X/XX
+##### 11/27/23
 
-Text
+###Basketball Hardware and Software
+
+
+
+
+
+
+
+
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
