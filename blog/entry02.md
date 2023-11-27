@@ -1,7 +1,7 @@
 # Entry 2
 ##### 11/27/23
 
-###Basketball Hardware and Software
+### Basketball Hardware and Software
 
 
 
