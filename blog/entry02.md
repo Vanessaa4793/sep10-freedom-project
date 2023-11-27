@@ -3,7 +3,8 @@
 
 ### Basketball Hardware and Software
 
-
+### Content
+For the past few weeks, I have been researching about the hardwares and softwares of basketball. In basketball they use
 
 
 
