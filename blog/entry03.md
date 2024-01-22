@@ -2,7 +2,7 @@
 ##### 1/22/24
 
 ### Context
-For this part of the blog, I have been researching to learn more about basketball. To know about what kind of hardwares/softwares they use to improve basketball everyday. 
+For this part of the blog, I have been researching to learn more about basketball. To know about what kind of hardwares/softwares they use to improve basketball everyday. As a basketball player myself, learning about the things basketball developers use has been really interesting for me to learn about.
 
 ### Technology Process
 Continuing my process as a Sep student, I am currently on the second step which is research. I am finding out more about how basketball is improving everyday. They way I am going to achieve this by using the skills:
