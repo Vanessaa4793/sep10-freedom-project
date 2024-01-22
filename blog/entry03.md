@@ -47,6 +47,9 @@ Sensors- able to understand and push player’s boundaries of what they are tryi
 
 AI technology- automatically generates individualized highlight packages for each player in every match.
 
+### Summary
+To sum it all up, I am excited to see what other research I find on basketball. And how I can implent that information in my daily life.
+
 
 
 
