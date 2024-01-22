@@ -2,7 +2,7 @@
 ##### 1/22/24
 
 ### Context
-For this part of the blog, I have been researching to learn more about basketball. To know about what kind of hardwares/softwares they use to improve basketball everyday.
+For this part of the blog, I have been researching to learn more about basketball. To know about what kind of hardwares/softwares they use to improve basketball everyday. 
 
 ### Engineering Process/Skills
 Over the course of the past couple weeks, I have been in the research process of the engineering design process. 
