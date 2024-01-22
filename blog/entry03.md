@@ -22,7 +22,11 @@ One of the skills I used was:
 
 The next I used was:
 
-`How to google`, one of the things I searched up was "What kind of hardwares are used in Basketball" [Elite Basketball](https://midwestelitebasketball.com/articles/hardware-vs-software/).This article taught me more about the types of hardware/ software is being used in basketball to make it what is it today. Basketball is still advancing even now to make basketball more enjoyable to watch and creating ways to make more money than they are making now. Another interesting article I saw was [nbas futuristic plan](https://adage.com/article/cmo-strategy/behind-nbas-futuristic-plans-replace-person-fans-virtual-technology-orlando-restart/2270101)
+`How to google`, one of the things I searched up was "What kind of hardwares are used in Basketball" [Elite Basketball](https://midwestelitebasketball.com/articles/hardware-vs-software/).This article taught me more about the types of hardware/ software is being used in basketball to make it what is it today. Basketball is still advancing even now to make basketball more enjoyable to watch and creating ways to make more money than they are making now. Another interesting article I saw was [nbas futuristic plan](https://adage.com/article/cmo-strategy/behind-nbas-futuristic-plans-replace-person-fans-virtual-technology-orlando-restart/2270101) This showed me that the NBA uses mutiple cameras to showcase the game and from different angles they see many things at the same time.
+
+THe last skill that io used was:
+
+`How to read` this is an important skill to learn because when looking through different articles, you have to look for different information each time so mutiple articles won't have the same information about the topic.
 
 
 ### Research on the types of hardwares
