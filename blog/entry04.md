@@ -6,7 +6,7 @@ For this blog entry, we are working on finding a tool. I chose the tool Aframe b
 
 
 ### Tinkering
-I tinkered with Aframe by using my IDE. And also I went on the Aframe website to find code that helped me with my tinkering.
+I tinkered with Aframe by using my IDE. And also I went on the Aframe website and looked at documentation that helped me with my tinkering. For my tinkering I tried changing exisiting code like a cylinder and a plane and by the image shown below the plane is the flat gray surface with the blue cylinder inside of it.
 ```
 <a-cylinder color="crimson" height="3" radius="1.5"></a-cylinder>
 <a-plane color="#CCC" height="20" width="20"></a-plane>
