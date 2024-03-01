@@ -22,6 +22,8 @@ One skill was-
 My next skill was-
 `How to Learn`, I was able to learn different codes even though I didn't put it in this entry blog I am able to use it later when I want to make cool things. You have to be able to figure out which code is helpful to you in the moment.
 
+### EDP
+Currently I am on Step 4 and 5, Step 4 becauseI am planning out what I want to do with Aframe which is to later on make a virtual 3D Basketball court. Step 5 because I am creating experiments to test out different codes to see how they look.
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
