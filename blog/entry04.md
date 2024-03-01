@@ -9,17 +9,10 @@ For this blog entry, we are working on finding a tool. I chose the tool Aframe b
 I tinkered with Aframe by using my IDE. And also I went on the Aframe website to find code that helped me with my tinkering.
 ```
 <a-cylinder color="crimson" height="3" radius="1.5"></a-cylinder>
-
-<!-- Hexagon. -->
-<a-cylinder color="cyan" segments-radial="6"></a-cylinder>
-
-<!-- Pac-man. -->
-<a-cylinder color="pink" theta-start="50" theta-length="280" side="double"></a-cylinder>
-
-<!-- Green pipe. -->
-<a-cylinder color="orange" open-ended="true"></a-cylinder>
+<a-plane color="#CCC" height="20" width="20"></a-plane>
 ```
-![image](https://github.com/Vanessaa4793/sep10-freedom-project/assets/146861977/b3e29d28-770d-4a8b-a17d-2f99c9470aec)
+![image](https://github.com/Vanessaa4793/sep10-freedom-project/assets/146861977/3239d766-f313-4c60-9b3b-3322f1f668f8)
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
