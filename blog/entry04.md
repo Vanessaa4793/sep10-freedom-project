@@ -19,6 +19,8 @@ I tinkered with Aframe by using my IDE. And also I went on the Aframe website to
 <!-- Green pipe. -->
 <a-cylinder color="orange" open-ended="true"></a-cylinder>
 ```
+![image](https://github.com/Vanessaa4793/sep10-freedom-project/assets/146861977/b3e29d28-770d-4a8b-a17d-2f99c9470aec)
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
