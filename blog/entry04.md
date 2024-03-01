@@ -13,6 +13,8 @@ I tinkered with Aframe by using my IDE. And also I went on the Aframe website an
 ```
 ![image](https://github.com/Vanessaa4793/sep10-freedom-project/assets/146861977/3239d766-f313-4c60-9b3b-3322f1f668f8)
 
+### Skills 
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
