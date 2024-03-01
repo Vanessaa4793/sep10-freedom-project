@@ -20,7 +20,7 @@ One skill was-
 `How to Read` helped me to read the Aframe website to pick and choose which code I wanted to use for my demonstration. I was able to change some of the code to my liking of what I wanted to see.
 
 My next skill was-
-`How to Learn`, I was able to learn different codes even though I didn't put it in this entry blog I am able to use it later when I want to make cool things.
+`How to Learn`, I was able to learn different codes even though I didn't put it in this entry blog I am able to use it later when I want to make cool things. You have to be able to figure out which code is helpful to you in the moment.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
