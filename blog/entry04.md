@@ -14,7 +14,13 @@ I tinkered with Aframe by using my IDE. And also I went on the Aframe website an
 ![image](https://github.com/Vanessaa4793/sep10-freedom-project/assets/146861977/3239d766-f313-4c60-9b3b-3322f1f668f8)
 
 ### Skills 
+For this part of my blog entry, their were two skills that I used the most.
 
+One skill was-
+`How to Read` helped me to read the Aframe website to pick and choose which code I wanted to use for my demonstration. I was able to change some of the code to my liking of what I wanted to see.
+
+My next skill was-
+`How to Learn`, I was able to learn different codes even though I didn't put it in this entry blog I am able to use it later when I want to make cool things.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
