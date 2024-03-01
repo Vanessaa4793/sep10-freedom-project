@@ -8,7 +8,16 @@ For this blog entry, we are working on finding a tool. I chose the tool Aframe b
 ### Tinkering
 I tinkered with Aframe by using my IDE. And also I went on the Aframe website to find code that helped me with my tinkering.
 ```
+<a-cylinder color="crimson" height="3" radius="1.5"></a-cylinder>
 
+<!-- Hexagon. -->
+<a-cylinder color="cyan" segments-radial="6"></a-cylinder>
+
+<!-- Pac-man. -->
+<a-cylinder color="pink" theta-start="50" theta-length="280" side="double"></a-cylinder>
+
+<!-- Green pipe. -->
+<a-cylinder color="orange" open-ended="true"></a-cylinder>
 ```
 [Previous](entry03.md) | [Next](entry05.md)
 
