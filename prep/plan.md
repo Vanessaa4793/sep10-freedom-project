@@ -1,14 +1,15 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/AG6BBN)
+* [Desktop](https://wireframe.cc/NSup1m)
 
 ## Colors
-* `#ABC123`
+* #40CAF5 (for the title)
+* Black
 
 ## Fonts
-* [Text](URL)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 ## Timeline
 
