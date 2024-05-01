@@ -34,6 +34,9 @@ And I also used the Aframe Introduction Link
 
 ## Skills
 
+For this part of my blog entry I used two skills that helped me tinker with Aframe.
+
+My first one is `How to read`
 
 
 
