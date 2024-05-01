@@ -16,10 +16,15 @@ For this Blog we are still currently working on our tool, mine is Aframe. In the
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
-</html>```
+</html>
+```
 It didn't work so I had to find other codes so I continued to watch youtube videos. For my website to make it look good I will be using Bootstrap.
 
-# Sources
+## Sources
+I used Youtube to find more information on Aframe. Which showed me different people using aframe to make their ideas come to life making it virtual.
+These are some of the links I used..
+
+(https://www.youtube.com/watch?v=cS8uGfd_oG8&list=WL&index=1&t=5s)
 
 
 
