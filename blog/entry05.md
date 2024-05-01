@@ -26,6 +26,13 @@ These are some of the links I used..
 
 (https://www.youtube.com/watch?v=cS8uGfd_oG8&list=WL&index=1&t=5s)
 
+(https://www.youtube.com/watch?v=jhEfT9YjLcU)
+
+And I also used the Aframe Introduction Link
+
+(https://aframe.io/docs/1.5.0/introduction/)
+
+## Skills
 
 
 
