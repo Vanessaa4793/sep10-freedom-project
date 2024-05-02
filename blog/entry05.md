@@ -36,7 +36,9 @@ And I also used the Aframe Introduction Link
 
 For this part of my blog entry I used two skills that helped me tinker with Aframe.
 
-My first one is `How to read`
+My first one is `How to read` I reasearched different things on youtube to find things about aframe and how those videos can help me with my website. Later I will refer back to it if I need help. 
+
+Another skill that I learned was `How to learn`, I had to learn from these youtube videos in order to get code to build my 3D basketball court. Using the Aframe intro I had work around it and learn how to use it.
 
 
 
