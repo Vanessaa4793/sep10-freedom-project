@@ -1,7 +1,30 @@
 # Entry 6
-##### X/X/XX
+##### 5/3/24
 
-Text
+## Context
+
+For this blog, we have made our MVP already. To create my MVP I used Bootstrap, like card, Navbar, and Gallery. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
