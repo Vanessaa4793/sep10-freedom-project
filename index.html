@@ -9,65 +9,77 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
             /* CSS */
-body{
-background-color: Lightgray;
+#BasketballInfo{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
 }
 
-#border {
-            border-style: dotted;
-            border-color: Lightblue;
-            padding:15px;
-        }
+.bgColor {
+  background-color: #21c1de;
+}
 
+.Card{
+  background-color: Lightgray;
+  padding: 20px;
+}
+
+.box {
+  border-style: solid;
+  background-color: Lightgray;
+  padding: 20px;
+}
+
+#floor{
+
+}
 </style>
 
 
         <title>Title</title>
     </head>
-    <body>
-        <!-- HTML -->
+    <body class="bgColor">
+        <!--   m HTML -->
+        <section id="Home"></section>
         <div>
-                </div>
-              </nav>
-              <nav class="navbar navbar-expand-lg bg-body-tertiary">
-                <div class="container-fluid">
-                  <a class="navbar-brand" href="#">Basketball </a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                      <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Dropdown
-                        </a>
-                        <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#">Information</a></li>
-                          <li><a class="dropdown-item" href="#">Part A</a></li>
-                          <li><hr class="dropdown-divider"></li>
-                          <li><a class="dropdown-item" href="#">Gallery</a></li>
-                          <li><a class="dropdown-item" href="#">Part B</a></li>
-                        </ul>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-                      </li>
-                    </ul>
-                    <form class="d-flex" role="search">
-                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                      <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
-                  </div>
-                </div>
-              </nav>
+          <nav class="navbar navbar-expand-lg bg-body-tertiary bgColor:Lightgray;">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#Basketball">Basketball</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#Home">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#BasketballInfo">Information</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#Gallery">Gallery</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Dropdown link
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#PartA">Part A</a></li>
+                      <li><a class="dropdown-item" href="#PartB">Part B</a></li>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
 
-              <div class="card" style="width: 18rem;">
+        </div>
+
+
+
+</header>
+        <div class= "container">
+          <section id="BasketballInfo"></section>
+              <div class="card, Card" style="width: 18rem;">
                 <div class="card-body">
                   <h5 class="card-title">Basketball</h5>
                   <h6 class="card-subtitle mb-2 text-body-secondary">Why I chose Basketball as my topic?</h6>
@@ -76,9 +88,14 @@ background-color: Lightgray;
                   <a href="https://www.wilson.com/sites/default/files/styles/full_region_ultra_slim/public/blog/BBALL%20FEATURE.png?" class="BBALL FEATURE.webp">Basketball pic</a>
                 </div>
               </div>
-              <p>
-                Part A: Working on this freedom project, I been going through many steps of trying to use aframe. I looked at youtube videos of people creating 3d diagrams. I tinkered in my IDE of using bootstrap and aframe code to try to make something that is virtual. I had some unsuccessful attempts of trying to make basketball hoop. Leading up to making my website, I just continued to watch yuotube videos on aframe. 
-              </p>
+          </section>
+          <section id="PartA"></section>
+              <div id="BasketballInfo" class="box">
+                <p>
+                  Part A: Working on this freedom project, I been going through many steps of trying to use aframe. I looked at youtube videos of people creating 3d diagrams. I tinkered in my IDE of using bootstrap and aframe code to try to make something that is virtual. I had some unsuccessful attempts of trying to make basketball hoop. Leading up to making my website, I just continued to watch yuotube videos on aframe.
+                </p>
+              </div>
+              <section id="Gallery"></section>
               <div id="carouselExampleFade" class="carousel slide carousel-fade">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
@@ -100,11 +117,15 @@ background-color: Lightgray;
                   <span class="visually-hidden">Next</span>
                 </button>
               </div>
+              <section id="PartB"></section>
               <div class="card">
                 <div class="card-body">
                   Part B:
+
+
                 </div>
               </div>
+            </div>
 
         </div>
 
