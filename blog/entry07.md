@@ -21,7 +21,8 @@ After seeing this feedback I tried to do it on my own to make my wesbite l
 ## In- class presentation
 
 The feedback that I have recieved from Mr. Mueller is:
-dj
+
+I had a nice hook and good explanations of my wesbite and slides
 
 [Previous](entry06.md) | [Next](entry08.md)
 
