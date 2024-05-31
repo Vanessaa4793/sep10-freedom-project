@@ -18,11 +18,10 @@ Glow- I really love the way the navbar looks and back-drops.
 
 After seeing this feedback I tried to do it on my own to make my wesbite l
 
+## In- class presentation
 
-
-In- class presentation
-
-The feedback that I have recieved
+The feedback that I have recieved from Mr. Mueller is:
+dj
 
 [Previous](entry06.md) | [Next](entry08.md)
 
