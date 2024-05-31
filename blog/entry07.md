@@ -3,7 +3,26 @@
 
 ## Context
 
-For this blog, I have finished my website
+For this blog, I have finished my website, in-class presentation, and Expo elevator pitch. For both my in-class presentation and expo elevator pitch I have recieved some feedback to make me better. Coming towards the end of the year, I have learn many things leading up to make my website being able to use Bootstrap, Html, CSS, most importantly A-Frame. 
+
+## Website feedback
+
+Kostela- Grow- In my opinion you should change the width of the image in the carousel when it's on mobile view because it doesn’t show the whole image.
+Glow-I really like how the carousel changes the images.
+
+Keith- Grow- If you want to try to make the part a Information into a card and make that card next to the basketball then lead them to the images below.
+Glow- Having clickable words that sends you to an image or website
+
+Nayer- Grow: I would make the bottom pics a little smaller. As well as the basketball card could be better if it was center.
+Glow- I really love the way the navbar looks and back-drops.
+
+After seeing this feedback I tried to do it on my own to make my wesbite l
+
+
+
+In- class presentation
+
+The feedback that I have recieved
 
 [Previous](entry06.md) | [Next](entry08.md)
 
