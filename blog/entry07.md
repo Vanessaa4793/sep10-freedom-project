@@ -16,13 +16,15 @@ Glow- Having clickable words that sends you to an image or website
 Nayer- Grow: I would make the bottom pics a little smaller. As well as the basketball card could be better if it was center.
 Glow- I really love the way the navbar looks and back-drops.
 
-After seeing this feedback I tried to do it on my own to make my wesbite l
+After seeing this feedback I tried to do it on my own to make my wesbite but I turned out unsuccessful and didn't have time to seek a peer tutor.
 
 ## In- class presentation
 
 The feedback that I have recieved from Mr. Mueller is:
 
-I had a nice hook and good explanations of my wesbite and slides
+I had a nice hook and good explanations of my wesbite and slides. A grow that he had for me is being aware of walls of text- that less is more. 
+
+Presentation Grade: 8.5/10
 
 [Previous](entry06.md) | [Next](entry08.md)
 
