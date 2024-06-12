@@ -26,6 +26,13 @@ I had a nice hook and good explanations of my wesbite and slides. A grow that he
 
 Presentation Grade: 8.5/10
 
+## Takeaways from Elevator Pitch
+
+1. Adding more in my Part A- the Hardwares and Softwares
+
+2. Being more Confident in my presentation when presenting to others
+
+3. Being more Creative
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
