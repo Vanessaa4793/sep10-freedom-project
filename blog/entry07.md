@@ -42,7 +42,7 @@ Presentation Grade: 8.5/10
 
 ## EDP
 
-We are now on the last and final step of the engineering design process which is communicating the results
+We are now on the last and final step of the engineering design process which is communicating the results. The way I did this was presenting my slides to the whole class and explaining how I created my website and slides. Another way I communicated was giving my elevator pitch to other students in different grades. This took alot of courage because I had to present my hard work to other people even to the judges for a grade.
 
 
 [Previous](entry06.md) | [Next](entry08.md)
