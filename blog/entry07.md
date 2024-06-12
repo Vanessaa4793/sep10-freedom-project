@@ -18,7 +18,7 @@ Glow- I really love the way the navbar looks and back-drops.
 
 After seeing this feedback I tried to do it on my own to make my wesbite but I turned out unsuccessful and didn't have time to seek a peer tutor.
 
-## In- class presentation
+## [In- class presentation](https://docs.google.com/presentation/d/1W_a9ZqBn1zxnBUG4JAVWazbTzYaGgRwiPfQTqVlbs74/edit#slide=id.p)
 
 The feedback that I have recieved from Mr. Mueller is:
 
@@ -26,13 +26,15 @@ I had a nice hook and good explanations of my wesbite and slides. A grow that he
 
 Presentation Grade: 8.5/10
 
-## Takeaways from Elevator Pitch
+## [Takeaways from Elevator Pitch]()
 
 1. Adding more in my Part A- the Hardwares and Softwares
 
 2. Being more Confident in my presentation when presenting to others
 
 3. Being more Creative
+
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
