@@ -34,6 +34,16 @@ Presentation Grade: 8.5/10
 
 3. Being more Creative
 
+## Skills
+
+`How to google` - This skill helped me alot because using Aframe you have to find alot of code depending on the 3D object you are making. 
+
+`How to read` - This helped me to pick and choose which code is useful for me to build my basketball court 
+
+## EDP
+
+We are now on the last and final step of the engineering design process which is communicating the results
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
