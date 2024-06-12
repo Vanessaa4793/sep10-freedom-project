@@ -20,7 +20,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 * Social--> Relationships - You can take family out to see a game, or for a special event you can take out your partner
 ##### CONS
 * Global --> Laws - New ones can be created to prevent people from working in the industry like for example education can come to play in this situation because a degree can be need to play in the leagues or to be a coach.
-* Individual
+* Individual --> You can do research for a school project based on basketball players or how the industry works
 
 
 ## Blog
