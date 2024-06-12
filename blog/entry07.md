@@ -26,7 +26,7 @@ I had a nice hook and good explanations of my wesbite and slides. A grow that he
 
 Presentation Grade: 8.5/10
 
-## [Takeaways from Elevator Pitch]()
+## [Takeaways from Elevator Pitch](https://docs.google.com/document/d/1U3EvwkkfcjRD1s2j4uDNpvMMgTecLI79Wgb2SO04rJk/edit)
 
 1. Adding more in my Part A- the Hardwares and Softwares
 
