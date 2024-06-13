@@ -16,12 +16,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* Economic-> Jobs/Finance-  Basketball can give people jobs like actually playing on the court, being a ref, a coach, or making new technology. You can make alot of money and if you choose you can help others with it.
-* Social--> Relationships - You can take family out to see a game, or for a special event you can take out your partner
+* Economic-> Jobs/Finance-  Basketball can give people jobs like actually playing on the court, being a ref, a coach, or making new technology. You can make alot of money and if you choose you can help others with it. The NBA's relationship with technology also contributes to its economic influence. The league's investments in areas like virtual reality, advanced statistics, and streaming platforms can drive innovation and growth in the broader tech industry.
+  
+* Social--> Relationships - You can take family out to see a game, or for a special event you can take out your partner. Beyond the court, AI is transforming how fans interact with the game. The NBA app, powered by AI, offers personalized content, including highlights, player statistics, and even predicting game outcomes.
+
+* Individual --> You can do research for a school project based on basketball players or how the industry works
 ##### CONS
 * Global --> Laws - New ones can be created to prevent people from working in the industry like for example education can come to play in this situation because a degree can be need to play in the leagues or to be a coach.
-* Individual --> You can do research for a school project based on basketball players or how the industry works
-
 
 ## Blog
 Below you will find my blog about how I made my project.
